@@ -1,0 +1,4 @@
+skore
+skrub
+ipykernel
+ipywidgets
