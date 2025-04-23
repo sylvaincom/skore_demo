@@ -19,6 +19,6 @@ pip install -r requirements.txt
 
 ## Using this repo
 
-The `skore_demo.ipynb` notebook is already executed.
+The `demo.ipynb` notebook is already executed.
 
 You can visualize a static version of this notebook on [nbviewer](https://nbviewer.org/github/sylvaincom/skore_demo/blob/main/demo.ipynb).
