@@ -22,3 +22,17 @@ pip install -r requirements.txt
 The `demo.ipynb` notebook is already executed.
 
 You can visualize a static version of this notebook on [nbviewer](https://nbviewer.org/github/sylvaincom/skore_demo/blob/main/demo.ipynb).
+
+## Recommended resources
+
+- Probabl: présentation des librairies skore et skrub [[YouTube video](https://www.youtube.com/live/cy4cDEHX4-E?si=fqQa-wnlK4mNNOR6)] → Probabl presentation and Skore Lib demo by Sylvain Combettes at a seminar of the CNRS in April 2025, in French, from 27:42 to 58:47 including Q&A.
+-   Developments in the Scikit-Learn Ecosystem: Going Beyond `.fit(X, y).predict(X)` [[YouTube video](https://www.youtube.com/live/0AdocmpDr84?si=k8ioKxaDbmCJARAR)] → great talk by Probablrs at PyData Milano in March 2025, presenting scikit-learn, skrub, skore, and skops.
+    <details>
+    <summary><i>Toggle for the timeline of the video!</i></summary>
+    0:00 - 7:30 → general introduction of PyData Milan<br>
+    7:30 - 9:25 → brief presentations of Guillaume Lemaitre and Marie Sacksick from Probabl<br>
+    9:25 - 21:15 → What scikit-learn allows you to do<br>
+    21:15 - 32:54 → skrub - less wrangling, more machine learning<br>
+    32:54 - 43:51 → skops - scikit-learn models in production<br>
+    43:51 - 52:05 → skore - an abstraction to ease data science projects
+    </details>
