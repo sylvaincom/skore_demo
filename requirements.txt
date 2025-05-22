@@ -1,4 +1,4 @@
-skore
+skore==0.8.3
 skrub
 ipykernel
 ipywidgets
