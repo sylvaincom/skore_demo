@@ -26,7 +26,7 @@ You can visualize a static version of this notebook on [nbviewer](https://nbview
 ## Recommended resources
 
 - Probabl: présentation des librairies skore et skrub [[YouTube video](https://www.youtube.com/live/cy4cDEHX4-E?si=o0ex01Uv35qNJrj_&t=1662)] → Probabl presentation and Skore Lib demo by Sylvain Combettes at a seminar of the CNRS in April 2025, in French, from 27:42 to 58:47 including Q&A.
--   Developments in the Scikit-Learn Ecosystem: Going Beyond `.fit(X, y).predict(X)` [[YouTube video](https://www.youtube.com/live/0AdocmpDr84?si=65jvUhz81_cOYmcA&t=450)] → great talk by Probablrs at PyData Milano in March 2025, presenting scikit-learn, skrub, skore, and skops.
+-   Developments in the Scikit-Learn Ecosystem: Going Beyond `.fit(X, y).predict(X)` [[YouTube video](https://www.youtube.com/live/0AdocmpDr84?si=65jvUhz81_cOYmcA&t=450)] → great talk by Probablrs at PyData Milano in March 2025, presenting scikit-learn, skrub, skops, and skore.
     <details>
     <summary><i>Toggle for the timeline of the video!</i></summary>
     0:00 - 7:30 → general introduction of PyData Milan<br>
