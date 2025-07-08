@@ -19,7 +19,8 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-*Note*: For now, I have fixed the version of skore to v0.8.3 in `requirements.txt`, while the latest version is:
+*Note*: For now, I have fixed the version of skore to v0.9.2 in `requirements.txt`.
+The latest version is:
 
 [![pypi](https://img.shields.io/pypi/v/skore)](https://pypi.org/project/skore/)
 
