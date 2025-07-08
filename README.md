@@ -1,6 +1,8 @@
 # skore and skrub demo
 
-My demos of the skore python library that I co-maintain, as well as skrub.
+> For the Skore Hub demo, visit https://github.com/probabl-ai/skore-demo-project
+
+My demos of the skore python library that I co-maintain (a.k.a. Skore Lib), as well as skrub.
 
 Links:
 - skore: [GitHub repository](https://github.com/probabl-ai/skore), [documentation](https://skore.probabl.ai/), [demo videos](https://youtube.com/playlist?list=PLSIzlWDI17bTpixfFkooxLpbz4DNQcam3)
